@@ -17,8 +17,6 @@ export const News = () => {
                 </h6>
                 <h5 className="info">
                     This is the story of musashi miyato. He is well known in Japan to be the best samurai of all time.
-                    This is the story of musashi miyato. He is well known in Japan to be the best samurai of all time.
-                    This is the story of musashi miyato. He is well known in Japan to be the best samurai of all time.
                 </h5>
             </div>
 

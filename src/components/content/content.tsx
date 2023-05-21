@@ -15,7 +15,7 @@ export const Content = () => {
     return (
         <div className="container">
             <Swiper
-                slidesPerView={2}
+                slidesPerView={3}
                 modules={[Pagination, Autoplay]}
                 autoplay={{delay: 5000}}
                 className="slide-container">
