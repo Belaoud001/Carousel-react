@@ -1,0 +1,11 @@
+.navbar-logo-global {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.navbar-logo {
+    transform: scale(0.3);
+}
+

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+.container {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    background-color: white;
+    border: 1px solid #d0d0d0;
+    height: 100%;
+}
+
+.slide-container {
+    display: flex;
+    margin: 0 !important;
+}

@@ -1,0 +1,7 @@
+.nav-bar-global {
+    display: flex;
+    align-items: center;
+    font-size: large;
+    border-bottom: 1px solid black;
+    background-color: white;
+}

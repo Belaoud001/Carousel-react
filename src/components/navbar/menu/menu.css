@@ -1,0 +1,28 @@
+.navbar-menu-global {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    flex: 1;
+}
+
+.items-list {
+    display: flex;
+    justify-content: space-around;
+    min-width: 100%;
+    height: inherit;
+}
+
+.items-list > li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 5px;
+}
+
+.items-list > li:hover {
+    cursor: pointer;
+    font-weight: bold;
+}
+
