@@ -5,7 +5,7 @@ export const News = () => {
         <div className="news-details">
             <div>
                 <h3 className="title">
-                    This is cringe lol
+                    This is cool lol
                 </h3>
                 <h6 className="date-container">
                     <span className="material-symbols-sharp">

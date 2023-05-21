@@ -1,4 +1,4 @@
-import MusashiImage from "../../../../assets/sg_logo.png"
+import MusashiImage from "../../../../assets/anime.jpg"
 
 import './imagebox.css'
 
